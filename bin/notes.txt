@@ -1,0 +1,24 @@
+Moving Cards and Tableaus around works.
+Undo works.
+Auto-complete probably works.
+
+
+FULLY FUNCTIONAL!!
+
+NOW WITH STATISTICS! except they don't ever actually change so 
+need to add in that code yeah
+
+NEW IN V2.2: AUTOCOMPLETE TICK BOX WOW!!
+
+V2.3: bugfixes
+
+V2.4: i actually don't remember
+
+V2.5: made cascade pickup/canpickup more efficient, fixed a bug
+
+I think everything's working now?!
+
+NOW WITH FANCY COMMENTS!!!
+
+BUGFIXES I'M SO TIRED plus half of a hint
+
